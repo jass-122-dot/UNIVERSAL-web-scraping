@@ -1,0 +1,70 @@
+[
+  {
+    "Company": "Tata Consultancy Services",
+    "Number of Employees Laid off": "12,000"
+  },
+  {
+    "Company": "Santander UK",
+    "Number of Employees Laid off": "2,000"
+  },
+  {
+    "Company": "Intel",
+    "Number of Employees Laid off": "24,000 + additional 10,000"
+  },
+  {
+    "Company": "Indeed, and Glassdoor",
+    "Number of Employees Laid off": "1,300"
+  },
+  {
+    "Company": "Microsoft",
+    "Number of Employees Laid off": "9,000 + additional 7,000"
+  },
+  {
+    "Company": "Intel (additional layoffs)",
+    "Number of Employees Laid off": "10,000"
+  },
+  {
+    "Company": "Procter & Gamble (P&G)",
+    "Number of Employees Laid off": "7,000"
+  },
+  {
+    "Company": "Microsoft (additional layoffs)",
+    "Number of Employees Laid off": "7,000"
+  },
+  {
+    "Company": "Telefonica",
+    "Number of Employees Laid off": "4,000"
+  },
+  {
+    "Company": "PwC",
+    "Number of Employees Laid off": "1,500"
+  },
+  {
+    "Company": "Crowdstrike",
+    "Number of Employees Laid off": "500"
+  },
+  {
+    "Company": "United Parcel Service (UPS)",
+    "Number of Employees Laid off": "20,000"
+  },
+  {
+    "Learning Area": "Generative AI Training",
+    "Why It Matters": "Enables prompt engineering and AI-tool integration (e.g., ChatGPT, Gemini, Bard)"
+  },
+  {
+    "Learning Area": "AI Ethics & Governance",
+    "Why It Matters": "Encourages responsible use of AI in enterprise projects"
+  },
+  {
+    "Learning Area": "ML Engineering",
+    "Why It Matters": "Bridges technical gaps between data and product teams"
+  },
+  {
+    "Learning Area": "AI for Project Managers",
+    "Why It Matters": "Helps align AI capabilities with business needs"
+  },
+  {
+    "Learning Area": "Cloud-AI Integration",
+    "Why It Matters": "Drives scalable, efficient, and AI-ready infrastructures"
+  }
+]
